@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# Build folders
+target/
+out/
+
+# Logs
+*.log
+
+# Eclipse / NetBeans
+*.class
+*.project
+*.settings/
+
